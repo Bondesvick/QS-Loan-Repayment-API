@@ -1,0 +1,5 @@
+------------------------------------------------------------------------------------
+Event Time: 10:33:08 | Exception: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+
+------------------------------------------------------------------------------------
+
